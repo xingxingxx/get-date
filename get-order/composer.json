@@ -1,0 +1,21 @@
+{
+    "name": "xingxingxx/get-order",
+    "description": "get order",
+    "type": "library",
+    "require": {
+        "php": "5.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiaoxingping",
+            "email": "xx9815@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "xingxingxx\\": "src/"
+        }
+    }
+}
