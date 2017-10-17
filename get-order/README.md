@@ -1,2 +1,0 @@
-# get-date
-get date

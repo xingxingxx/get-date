@@ -13,6 +13,7 @@ class GetDate
 {
     public function getDate()
     {
-        return time();
+        $data = date('Y-m-d H:i:s', time());
+        return 'Hello,This time is ' . $data;
     }
 }
