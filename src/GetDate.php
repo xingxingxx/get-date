@@ -14,6 +14,6 @@ class GetDate
     public function getDate()
     {
         $data = date('Y-m-d H:i:s', time());
-        return 'Hello,This time is ' . $data;
+        return 'Hello, This time is ' . $data;
     }
 }
